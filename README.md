@@ -90,11 +90,11 @@ What can be accomplished in 7 days? A gin-like web framework? A distributed cach
 [Gee](https://geektutu.com/post/gee.html) is a [gin](https://github.com/gin-gonic/gin)-like framework
 
 - Day 1 - http.Handler Interface Basic [Code](gee-web/day1-http-base)
-- Day 2 - Design a Flexiable Context [Code](gee-web/day2-context)
+- Day 2 - Design a Flexible Context [Code](gee-web/day2-context)
 - Day 3 - Router with Trie-Tree Algorithm [Code](gee-web/day3-router)
 - Day 4 - Group Control [Code](gee-web/day4-group)
 - Day 5 - Middleware Mechanism [Code](gee-web/day5-middleware)
-- Day 6 - Embeded Template Support [Code](gee-web/day6-template)
+- Day 6 - embedded Template Support [Code](gee-web/day6-template)
 - Day 7 - Panic Recover & Make it Robust [Code](gee-web/day7-panic-recover)
 
 ## Distributed Cache - GeeCache
@@ -113,10 +113,10 @@ What can be accomplished in 7 days? A gin-like web framework? A distributed cach
 
 [GeeORM](https://geektutu.com/post/geeorm.html) is a [gorm](https://github.com/jinzhu/gorm)-like and [xorm](https://github.com/go-xorm/xorm)-like object relational mapping library
 
-Xorm's desgin is easier to understand than gorm-v1, so the main designs references xorm and some detailed implementions references gorm-v1.
+Xorm's design is easier to understand than gorm-v1, so the main designs references xorm and some detailed implementations references gorm-v1.
 
 - Day 1 - database/sql Basic | [Code](gee-orm/day1-database-sql)
-- Day 2 - Object Schame Mapping | [Code](gee-orm/day2-reflect-schema)
+- Day 2 - Object schema Mapping | [Code](gee-orm/day2-reflect-schema)
 - Day 3 - Insert and Query | [Code](gee-orm/day3-save-query)
 - Day 4 - Chain, Delete and Update | [Code](gee-orm/day4-chain-operation)
 - Day 5 - Support Hooks | [Code](gee-orm/day5-hooks)
